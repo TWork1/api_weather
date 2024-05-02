@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Dots';
+    src: url(./addins/fonts/JeanSunHo.ttf);
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2vh;
+}
+input{
+    border-radius: 18px;
+    border: 1px solid gray;
+    width: 50vw;
+    height: 5vh;
+    text-align: center;
+    -webkit-text-stroke-width: 1.5px;
+    font-size: 275%;
+    font-family: 'Dots';
+}
+.main-display{
+    display: grid;
+    height: 90vh;
+    width: 90vw;
+    border-radius: 12px;
+    border: solid black 1px;
+}

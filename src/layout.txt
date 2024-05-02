@@ -1,0 +1,17 @@
+weather/ time of day in big area
+
+UV
+
+feels like (F and C)
+
+wind speed (mph and kph)
+
+Humidty
+
+percipitation (in and mm);
+
+need to pull 
+
+11
+
+7
